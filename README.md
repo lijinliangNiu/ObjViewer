@@ -1,5 +1,4 @@
 # ObjViewer
-A Viewer to observe motion of objs
 It is based on VS2013 and Qt5.51. 
 
 Some programs can generate objs as the frames of animate. 
